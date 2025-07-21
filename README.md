@@ -25,3 +25,6 @@ Elija una opcion:
 4. Salir del programa.
 :
 ```
+# Requerimientos
+
+Es esencial mantener los archivos ".txt" que vienen con el repositorio, ya que dentro de estos es donde se guardara la informacion correspondiente del programa

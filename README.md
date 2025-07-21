@@ -1,6 +1,6 @@
 # SistemaDeVehiculos
 
-Programa que controla los vehiculos agregados, alquilados y devueltos de una concesionaria
+Programa que controla los vehiculos agregados, alquilados y devueltos de una concesionaria.
 
 # Instalación
 
@@ -11,7 +11,7 @@ python SistVehiculos.py
 ```
 # Como usarlo
 
-Al ejecutar el programa, debes elegir una opcion (1 - 4) para continuar. Una vez elegida la opcion, el programa te pedira la información correspondiente para concluir con la tarea
+Al ejecutar el programa, debes elegir una opcion (1 - 4) para continuar. Una vez elegida la opcion, el programa te pedira la información correspondiente para concluir con la tarea.
 
 ```bash
 Elija una opcion:
@@ -27,4 +27,4 @@ Elija una opcion:
 ```
 # Requerimientos
 
-Es esencial mantener los archivos ".txt" que vienen con el repositorio, ya que dentro de estos es donde se guardara la informacion correspondiente del programa
+Es esencial mantener los archivos ".txt" que vienen con el repositorio, ya que dentro de estos es donde se guardara la informacion correspondiente del programa.
